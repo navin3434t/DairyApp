@@ -1,0 +1,409 @@
+Array
+(
+    [user_id] => 413
+    [local_db_id] => navindev3008
+    [Owner] => navin.3434@gmail.com
+    [Status] => 1
+    [Last_completed_index] => Last_completed_index
+    [farm_id] => 288
+    [investigationStep1] => Array
+        (
+            [bactoscan_tpc] => 1
+            [invite_data] => Array
+                (
+                    [0] => Array
+                        (
+                            [is_exist] => 1
+                            [uid] => 409
+                            [email] => tester4@gmail.com
+                            [mobile] => 2321432
+                            [name] => tester4
+                        )
+
+                    [1] => Array
+                        (
+                            [is_exist] => 1
+                            [uid] => 409
+                            [email] => tester4@gmail.com
+                            [mobile] => 873892733
+                            [name] => tester4
+                        )
+
+                )
+
+            [thermodurics] => 4
+            [other] => 3
+            [other_description] => 4
+            [latest_bactoscan] => 4
+            [cows_milked] => 1
+            [latest_thermoducric] => 1
+            [milk_production_day] => 1
+            [milk_frequency] => 1
+            [bmilk_temprature] => 1
+            [tank_volume] => 1
+            [temp_note_time] => 1
+            [elapsed_hour] => 1
+            [elapsed_minutes] => 1
+            [comments] => 1
+        )
+
+    [investigationStep2] => Array
+        (
+            [milking_equipment] => 1
+            [cooling_equipment] => 1
+            [heating_equipment] => 1
+            [wash_program] => 1
+            [wash_routinue] => 1
+            [staff_changes] => 1
+            [other] => 1
+        )
+
+    [investigationStep3] => Array
+        (
+            [water_details] => Array
+                (
+                    [0] => Array
+                        (
+                            [hot_water] => 1
+                            [cold_water] => 1
+                            [test_date] => 1
+                            [sample_from] => 1
+                            [ph] => 1
+                            [e_coli_count] => 1
+                            [iron] => 1
+                            [total_plate_count] => 11
+                            [total_hardness] => 1
+                            [comments] => 1
+                        )
+
+                )
+
+        )
+
+    [investigationStep4] => Array
+        (
+            [equipment_inspection] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 1
+                            [clean] => 1
+                            [deposit_found] => 1
+                            [dirty] => 1
+                            [deposit_not_found] => 1
+                            [condition] => 1
+                            [comment] => 1
+                            [image] => 1
+                            [pass] => 1
+                            [fail] => 1
+                        )
+
+                )
+
+        )
+
+    [investigationStep5] => Array
+        (
+            [wash_assessment_cycle] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => 1
+                            [volume] => 1
+                            [dump_temperature] => 1
+                            [cleaner_sanitiser] => 1
+                            [start_temp] => 1
+                            [comments] => 1
+                            [dose] => 1
+                            [pass] => 1
+                            [fail] => 1
+                        )
+
+                )
+
+            [am] => 1
+            [pm] => 1
+            [other] => 1
+            [name] => 1
+        )
+
+    [investigationStep6] => Array
+        (
+            [cleaning_solution] => Array
+                (
+                    [0] => Array
+                        (
+                            [alkali_ph_level] => 1
+                            [wash_active] => 1
+                            [chlorine_level] => 434
+                            [acid_ph_level] => 1
+                            [sanitiser_ph_level] => 1
+                        )
+
+                )
+
+        )
+
+    [investigationStep7] => Array
+        (
+            [liner_mouthpiece_yes] => 1
+            [liner_mouthpiece_no] => 1
+            [which_unit_liner_description] => 1
+            [cleaning_solution_flow_yes] => 1
+            [cleaning_solution_flow_no] => 1
+            [which_unit_cleaning_description] => 1
+            [working_vacuum_yes] => 1
+            [working_vacuum_no] => 1
+            [vacuum_kevek_description] => 1
+            [effective_reserve_yes] => 1
+            [effective_reserve_no] => 1
+        )
+
+    [investigationStep8] => Array
+        (
+            [injector_yes] => 1
+            [injector_no] => 1
+            [slug_wash_cycle] => 1
+            [estimated_slug_screen] => 1
+            [receiver_volume_1_2l] => 1
+            [receiver_volume_2_3_f] => 1
+            [receiver_volume_1_3_f] => 1
+            [receiver_volume_2_3_g] => 1
+            [receiver_volume_1_2_f] => 1
+            [after_turn_yes] => 1
+            [after_turn_no] => 1
+            [instant_after_turn_yes] => 1
+            [instant_after_turn_no] => 1
+            [before_turn_yes] => 1
+            [before_turn_no] => 1
+            [little_no_action_yes] => 1
+            [little_no_action_no] => 1
+            [good_action_yes] => 1
+            [good_action_no] => 1
+            [little_action_yes] => 1
+            [little_action_no] => 1
+            [other_yes] => 1
+            [other_no] => 1
+            [comments] => te dd
+        )
+
+    [investigationStep9] => Array
+        (
+            [pre_rinse] => 1
+            [wash] => 1
+            [average_flow_rate] => 1
+            [final_rinse] => 1
+            [allowance] => 1
+            [flow_rate_unit] => Array
+                (
+                    [0] => Array
+                        (
+                            [unit_no] => 1
+                            [letter_line] => 1
+                            [volume_collected] => 1
+                            [time_elapsed] => 1
+                            [flow_rate] => 1
+                            [pass_fail] => 1
+                            [comments] => ghhhg jh
+                        )
+
+                )
+
+        )
+
+    [investigationStep10] => Array
+        (
+            [milk_tank] => Array
+                (
+                    [0] => Array
+                        (
+                            [milk_cycle] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [cycling_description] => 1
+                                            [volume] => 1
+                                            [cleanser_sanitiser] => 1
+                                            [temp_start] => 1
+                                            [comment] => 1
+                                            [dose] => 1
+                                            [pass] => 1
+                                            [fail] => 1
+                                            [dump_temperature] => dsad
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [milk_cycle] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [cycling_description] => 1
+                                            [volume] => 1
+                                            [cleanser_sanitiser] => 1
+                                            [temp_start] => 1
+                                            [comment] => 1
+                                            [dose] => 1
+                                            [pass] => 1
+                                            [fail] => 1
+                                            [dump_temperature] => dsad
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [bulkMilkTankCleaning] => Array
+        (
+            [alkali_ph_level] => dsad
+            [acid_ph_level] => dsad
+            [alkal_wash_active] => dsad
+            [sanitizer_ph_level] => dsad
+            [chlorine_level] => dsa
+        )
+
+    [completeInvestigation] => Array
+        (
+            [other_test_observation] => dsd
+        )
+
+    [investigationRecommendation1] => Array
+        (
+            [action_data] => Array
+                (
+                    [0] => Array
+                        (
+                            [task_id] => 1
+                            [task_status] => 1
+                            [action_name] => cbv vb
+                            [assign_id] => 409
+                            [assign_name] => tester4
+                            [due_date] => 2017-05-05
+                        )
+
+                )
+
+        )
+
+    [investigationRecommendation2] => Array
+        (
+            [retain_existing] => dasd
+            [new_recommendation] => dasd
+            [reference_number] => dasd
+            [invite_data] => Array
+                (
+                    [0] => Array
+                        (
+                            [is_exits] => 1
+                            [uid] => 1
+                            [email] => 
+                            [mobile] => 
+                            [name] => 
+                        )
+
+                )
+
+            [machine_wash_data] => Array
+                (
+                    [0] => Array
+                        (
+                            [sunday] => 1
+                            [monday] => 1
+                            [tuesday] => 0
+                            [wednesday] => 0
+                            [thursday] => 1
+                            [friday] => 0
+                            [saturday] => 1
+                            [wash_type] => 1
+                            [cycle] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [description] => cv
+                                            [volume] => 2
+                                            [cleaner_sanitiser] => 3
+                                            [comments] => fds
+                                            [start_temp] => 32
+                                            [dose] => 33
+                                            [dump_temperature] => 45
+                                            [pass] => 1
+                                            [fail] => 0
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [investigationRecommendation3] => Array
+        (
+            [retain_existing] => dsad
+            [new_recommendation] => dsad
+            [invite_data] => Array
+                (
+                    [0] => Array
+                        (
+                            [is_exits] => 1
+                            [uid] => 2
+                            [email] => 
+                            [mobile] => 
+                            [name] => 
+                        )
+
+                )
+
+            [milk_tank] => Array
+                (
+                    [0] => Array
+                        (
+                            [milk_cycle] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [description] => dsad
+                                            [volume] => das
+                                            [cleaner_sanitiser] => 
+                                            [comment] => dasd
+                                            [temp_start] => dsad
+                                            [dose] => dsad
+                                            [dump_temperature] => dsad
+                                            [pass] => 1
+                                            [fail] => 0
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [investigationRecommendation4] => Array
+        (
+            [action_data] => Array
+                (
+                    [0] => Array
+                        (
+                            [task_id] => 1
+                            [task_status] => 1
+                            [comments] => bn nb
+                            [completion_date] => 2017-05-10
+                        )
+
+                )
+
+        )
+
+)
